@@ -1,0 +1,87 @@
+{
+  "entradas": [
+    {
+      "id": 1,
+      "name": "Papas Brooklyn",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Aros de cebolla",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Nachos Brooklyn",
+      "price": 14000
+    },
+    {
+      "id": 4,
+      "name": "Yucas Bites",
+      "price": 10000
+    }
+  ],
+  "burgers": [
+    {
+      "id": 1,
+      "name": "Clasic American Burger",
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "name": "Manhattan Burger",
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "name": "Queen Burger",
+      "price": 40000
+    },
+    {
+      "id": 4,
+      "name": "Burger OMG",
+      "price": 30000
+    }
+  ],
+  "hot_dogs": [
+    {
+      "id": 1,
+      "name": "Hot Dog Brooklyn",
+      "price": 21000
+    },
+    {
+      "id": 2,
+      "name": "Classic",
+      "price": 14000
+    },
+    {
+      "id": 3,
+      "name": "Brooklyn Especial",
+      "price": 23000
+    }
+  ],
+  "costillitas": [
+    {
+      "id": 1,
+      "name": "Me Ribs BBQ",
+      "price": 40000
+    },
+    {
+      "id": 2,
+      "name": "Bufalo",
+      "price": 40000
+    },
+    {
+      "id": 3,
+      "name": "Al vino",
+      "price": 40000
+    }
+  ],
+  "ensaladas": [
+    {
+      "id": 1,
+      "name": "Ensalada Brooklyn",
+      "price": 20000
+    }
+  ]
+}

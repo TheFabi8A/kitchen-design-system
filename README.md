@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Reto Frontend (KDS)
 
-## Getting Started
+- Reto de Desarrollo Frontend en React.js para un Kitchen Design System (KDS)
 
-First, run the development server:
+## Objetivo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Desarrollar una aplicación web de Kitchen Display System (KDS) utilizando React.js con Styled Components, React Hooks, Redux y TypeScript.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Descripción del reto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Tu objetivo es crear una aplicación web de Kitchen Display System (KDS) utilizando React.js, Styled Components, React Hooks, Redux y TypeScript. La aplicación debe permitir visualizar los pedidos en tiempo real para que el personal de cocina los vea.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Un Kitchen Display System (KDS) es un sistema utilizado en restaurantes y establecimientos de comida para reemplazar los típicos tickets impresos o comandas en papel. El KDS muestra los pedidos de los clientes en una pantalla, de manera que el personal de cocina puede verlos y prepararlos de manera más eficiente. Esto mejora la comunicación entre la cocina y los camareros, reduciendo errores y tiempos de espera.
 
-## Learn More
+### Requisitos
 
-To learn more about Next.js, take a look at the following resources:
+1. Utiliza componentes funcionales de React.js en lugar de componentes de clase.
+2. Utiliza Styled Components para el estilo y diseño de la aplicación.
+3. Utiliza React Hooks para el manejo de estado y efectos secundarios.
+4. Implementa Redux para el manejo del estado global de la aplicación.
+5. La interfaz de usuario debe ser intuitiva y atractiva.
+6. Cada pedido debe incluir detalles básicos como la lista de productos y la cantidad.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Puntos extra (opcional)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Los pedidos deben mostrarse en tiempo real en el Kitchen Display System.
+- Implementar la funcionalidad de filtrado para mostrar solo los pedidos pendientes, en proceso o completados.
+- Implementar la funcionalidad de gestión de pedidos, como marcar pedidos como completados o cancelados.
 
-## Deploy on Vercel
+### Pautas
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Utiliza las últimas versiones de las bibliotecas y dependencias (React, Styled Components, Redux, etc.).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Se valorará la estructura y organización del código, así como las buenas prácticas de desarrollo y el uso adecuado de TypeScript.
+
+### Recursos Adicionales
+
+- Documentación oficial de React.js: **<https://es.reactjs.org/>**
+- Documentación oficial de Styled Components: **<https://styled-components.com/>**
+- Documentación oficial de Redux: **<https://redux.js.org/>**
+- Documentación oficial de TypeScript: **<https://www.typescriptlang.org/>**
+
+### Ejemplos UI
+
+- <https://www.behance.net/gallery/88286063/Kitchen-display-app-Ui>
+- <https://dribbble.com/shots/2781207-Lightspeed-Kitchen-Display/attachments/567834?mode=media>
+- <https://gwenndesign.medium.com/product-design-case-study-kitchen-display-system-52a5e9cab81e>
+- <https://ux-design-awards.com/winners/kitchen-display-system>
+
+Recuerda que el objetivo principal es evaluar tu capacidad actual.
+
+- Entregable: Repositorio github público.
+  - Para la revisión es necesario hacer el deploy y disponer una url para pruebas.
+- Tiempo límite: 48 horas.
